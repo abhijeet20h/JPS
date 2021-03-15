@@ -1,0 +1,112 @@
+*{
+	
+	margin:0;
+	padding:0;
+}
+.m{
+height: 168px;
+text-align:center;
+}
+.a{
+	
+	width : 200px;
+	height:200px;
+	float:left;
+	
+}
+.b{
+	    width:230px;
+	height:100px;
+margin-right: 20px;
+float:right;
+font-size: 21px;
+}
+.clr{
+clear:both;
+}
+
+
+.b a{
+	text-decoration:none;
+	}
+.b  a svg{
+width:20px;
+height:20px;
+    margin-top: 9px;
+}
+.b a:hover{
+color: blue;
+font-size: 30px;
+background-color:yellow;
+text-decoration:underline;
+}
+
+
+.in{
+    margin-top: 23px;
+    margin-bottom: 23;
+	
+	}
+	.in input{
+	width:800px;
+	 height: 30px;
+	}
+.tex{
+
+}
+.tex input{
+padding:6px;
+margin-right :9px;
+border: 0px solid #b9b7b7;
+  
+}
+.tex input:hover{
+	color: blue;
+font-size: 25px;
+	background-color: yellow;
+	
+}
+.kk{
+margin: 0 auto;
+text-align: center; 
+margin: 0 auto;
+}
+.fot{
+    position: absolute;
+    width: 100%;
+    height: 130px;
+     color: rgba(0,0,0,.54);
+	bottom :0px
+}
+.p{
+margin: 0 auto;
+    text-align: center;
+}
+.p a{
+margin: }
+
+.pp{
+	text-align: center;
+	padding-top :20px;
+	font-size: 20px;
+}
+.fir{
+	bottom : 0;
+	position:absolute; 
+	font-size :20px;
+	margin-left : 20px;
+}
+.ind{    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+}
+.sec{
+	bottom: 0;
+	position: absolute; 
+	font-size :20px;
+	right:0;
+	margin-right: 20px;
+	
+}
+
